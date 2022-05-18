@@ -7,4 +7,4 @@
 4.vs code 安裝 python extension
 5.pip install flask, pandas, sklearn
 快捷鍵 ctrl+shift+p ===> package manager 叫出 (git clone....)
-快捷鍵 ctrl+' ==> 叫出終端機
+快捷鍵 ctrl+' ==> 叫出終端機。
