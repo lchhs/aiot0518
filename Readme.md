@@ -15,7 +15,5 @@ C:> git config --global user.email lchhslcjh@gmail.com
 Flask Web Development
 7.(check-point 3) simple flask web
 return 'hello world'
-retun "
-Hello World big font
-"
+retun "Hello World big font"
 return return app.send_static_file('index.html') ==> remeber to create static/index.html
