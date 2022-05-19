@@ -23,6 +23,9 @@
 
     C:> git config --global user.email lchhslcjh@gmail.com
 
+增加圖片
+<img src="./step.jpg" height=500/>
+
 Flask Web Development
 
 7.(check-point 3) simple flask web
