@@ -1,4 +1,4 @@
-# Chun-hsiung Homework #5-林俊雄
+# Chun-hsiung Homework #5
 ## Lecture 13: IoT Flask Web (github, vs code)
 ### Development Environment Setup
 1.Please install vs code, register github, install git for windows
