@@ -1,5 +1,5 @@
 # Chun-hsiung Homework #5
-<img src="https://d3gjxtgqyywct8.cloudfront.net/o2o/image/0c3b51bf-646e-4efe-8ee3-097dd80fe9dc.jpg height=300 /">
+<img src="https://d3gjxtgqyywct8.cloudfront.net/o2o/image/0c3b51bf-646e-4efe-8ee3-097dd80fe9dc.jpg" height=300 />
 ## Lecture 13: IoT Flask Web (github, vs code)
 ### Development Environment Setup
 1.Please install vs code, register github, install git for windows
