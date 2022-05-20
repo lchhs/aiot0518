@@ -32,10 +32,12 @@ Flask Web Development
     
     return 'hello world'
     retun "Hello World big font"
-    return return app.send_static_file('index.html') ==> remeber to create static/index.html
+    
 
 <img src="./hello.jpg" height=500/>
 <img src="./show.jpg" height=500/>
 <img src="./add.jpg" height=500/>
 <img src="./h2.jpg" height=500/>
 
+    return return app.send_static_file('index.html') ==> remeber to create static/index.html
+<img src="./static.jpg" height=500/>
