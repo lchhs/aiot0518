@@ -6,6 +6,10 @@ app=Flask(__name__)
 def index():
     return ("Hello")
 
+@app.route("/index2/")
+def index2():
+    return "<h2>This is my IoT Web </h2>"
+
 @app.route("/show/")
 def show():
     return ("Show me the money")
